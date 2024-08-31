@@ -57,5 +57,5 @@ A loading spinner is displayed when fetching new posts. The loading state is man
 
 ## 5. Potential Challenges
 
-    Over-fetching: Addressed by implementing debouncing and throttling.
-    Performance: Use of virtualized lists to manage large datasets.
++ Over-fetching: Addressed by implementing debouncing and throttling.
++ Performance: Use of virtualized lists to manage large datasets.
